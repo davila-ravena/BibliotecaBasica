@@ -5,8 +5,6 @@
 Projeto simples em Java que simula um sistema de gerenciamento de biblioteca.
 Permite cadastrar, listar, buscar, atualizar e remover livros diretamente no terminal, sem precisar de banco de dados externo.
 
-Ideal para demonstrar habilidades em Java, POO e CRUD.
-
 ---
 
 ## Funcionalidades
