@@ -38,10 +38,15 @@ Permite cadastrar, listar, buscar, atualizar e remover livros diretamente no ter
 ## Estrutura do Projeto
 
 BibliotecaBasica/
+
  ├── src/
+ 
  │    ├── main/Main.java        --> Menu e interação com o usuário
+ 
  │    ├── model/Book.java       --> Classe que representa o livro
+ 
  │    └── dao/BookDAO.java      --> Gerenciamento da lista de livros (CRUD)
+ 
  └── bin/                       --> Pasta onde serão compiladas as classes
 
 ---
