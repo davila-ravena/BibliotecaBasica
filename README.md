@@ -1,5 +1,7 @@
 📚 Biblioteca Básica (Java)
 
+---
+
 Descrição
 
 Projeto simples em Java que simula um sistema de gerenciamento de biblioteca.
