@@ -1,8 +1,8 @@
-📚 Biblioteca Básica (Java)
+##📚 Biblioteca Básica (Java)
 
 ---
 
-Descrição
+## Descrição
 
 Projeto simples em Java que simula um sistema de gerenciamento de biblioteca.
 Permite cadastrar, listar, buscar, atualizar e remover livros diretamente no terminal, sem precisar de banco de dados externo.
@@ -11,7 +11,7 @@ Ideal para demonstrar habilidades em Java, POO e CRUD.
 
 ---
 
-Funcionalidades
+## Funcionalidades
 
 📝 Cadastrar livro (ISBN, título, autores, editora, ano, preço)
 
@@ -27,7 +27,7 @@ Funcionalidades
 
 ---
 
-Tecnologias
+## Tecnologias
 
 - Java 8 ou superior
 
@@ -39,7 +39,7 @@ Tecnologias
 
 ---
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 BibliotecaBasica/
  ├── src/
@@ -50,7 +50,7 @@ BibliotecaBasica/
 
 ---
 
-Como Executar
+## Como Executar
 
 1️⃣ Pelo terminal
 cd BibliotecaBasica
@@ -63,7 +63,7 @@ O terminal abrirá, compilando e exibindo o menu do programa
 
 ---
 
-Exemplo de Uso
+## Exemplo de Uso
 
 --- Biblioteca Básica ---
 
@@ -97,7 +97,7 @@ Livro cadastrado com sucesso!
 
 ---
 
-Skills Demonstradas
+## Skills Demonstradas
 
 💻 Java básico e POO
 
