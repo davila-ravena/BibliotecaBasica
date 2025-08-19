@@ -54,12 +54,17 @@ BibliotecaBasica/
 ## Como Executar
 
 1️⃣ Pelo terminal
+
 cd BibliotecaBasica
+
 javac -d bin src\main\*.java src\dao\*.java src\model\*.java
+
 java -cp bin main.Main
 
 2️⃣ Com o arquivo .bat (Windows)
+
 Clique duas vezes no arquivo rodarBibliotecaBasica.bat
+
 O terminal abrirá, compilando e exibindo o menu do programa
 
 ---
